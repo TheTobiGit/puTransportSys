@@ -1,0 +1,31 @@
+{
+  "name": "putransportsys",
+  "version": "1.0.0",
+  "description": "a college transport system project",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass --watch src/scss:dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTobiGit/puTransportSys.git"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "web",
+    "html",
+    "pentecost",
+    "college",
+    "university"
+  ],
+  "author": "TheTobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTobiGit/puTransportSys/issues"
+  },
+  "homepage": "https://github.com/TheTobiGit/puTransportSys#readme",
+  "devDependencies": {
+    "sass": "^1.56.0"
+  }
+}
